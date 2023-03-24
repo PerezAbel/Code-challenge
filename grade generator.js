@@ -27,4 +27,4 @@ function gradeGenerator(marks) {
   }
   return;
 }
-gradeGenerator(44);
+gradeGenerator(44):
